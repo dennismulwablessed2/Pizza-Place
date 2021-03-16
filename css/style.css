@@ -10,3 +10,10 @@ body{
     z-index: 3;
     padding: 0;
 }
+.ftco-navbar-light .navbar-brand{
+    color: #ffff;
+}
+.ftco-navbar-light .navbar-brand:hover,
+.ftco-navbar-light .navbar-brand:focus{
+color: #ffffff;
+}
