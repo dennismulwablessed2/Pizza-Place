@@ -1,0 +1,51 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css");
+html{
+  scroll-behavior: smooth;
+}
+body{
+  overflow-x: hidden;
+  min-width: 100%;
+}
+
+#carousel{
+  top: 0%;
+  margin-top: 0%;
+}
+.flex-container{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 20em;
+}
+#sec3{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/5.jpg);
+  margin-top: 5em;
+  padding-top: 6em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  line-height: 2em;
+}
+#deliver{
+  padding-top: 4em;
+}
+.card{
+  border: transparent;
+}
+#img2{
+  width: 100%;
+  height: auto;
+}
+#recipes{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/13.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 5em;
+    height: 30em;
+  }
+  .recipe{
+    padding-top: 5em;
+    color: lightgray;
+    font-size: xx-large;
+    text-align: center;
+  }
