@@ -37,7 +37,7 @@ body{
   height: auto;
 }
 #recipes{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/13.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Pizza/images/pizaa19.jpeg);
     background-size: cover;
     background-attachment: fixed;
     margin-top: 5em;
